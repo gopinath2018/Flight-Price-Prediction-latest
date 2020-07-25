@@ -16,17 +16,6 @@ a {
 a:hover {
     color: #ff0808;
   }
-div.social i{
-  color:red;
-  font-size:45px;
-  padding:10px;
-  transition: background 0.3s;
-}
-div.social i:hover{
-  background:red;
-  color:#323840;
-  border-radius:5px;
-}
 
 
 .icon-bar {
